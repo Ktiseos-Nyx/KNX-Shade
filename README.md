@@ -1,7 +1,11 @@
-# Re:Shade Presets by Duskfallcrew
+# Re:Shade Presets by Duskfallcrew @ Ktiseos Nyx
 
 Update in October 2024:
 Texture backgrounds can be used for ANY of the depth slice setups, but certain ones are formatted specifically, but most of them are only set to 1920x1080 as that's still a fairly standard sizing. 
+
+Update for 2025:
+
+Moved the repo to my coding arm of Earth & Dusk for more clarity, if Azem or K'rhis make more (Dusk/earth) then we can put them in here as well as each other's XIV mod things.
 
 
 Works for Dawntrail
