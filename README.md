@@ -41,6 +41,11 @@ Graphic Contrast:
 Wedding Thule:
 ![WeddingThulePreset](https://github.com/user-attachments/assets/42a8468c-ba59-4554-b47e-fefc631f7674)
 
+Pepperoni Presets:
+
+![PepperoniPack](https://github.com/user-attachments/assets/01ecda67-0a6a-4c2c-b322-77c4d1d119f3)
+
+
 
 
 
