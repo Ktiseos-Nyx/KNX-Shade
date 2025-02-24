@@ -1,14 +1,14 @@
 # Re:Shade Presets by Duskfallcrew @ Ktiseos Nyx
 
-Update in October 2024:
+## Update in October 2024:
 Texture backgrounds can be used for ANY of the depth slice setups, but certain ones are formatted specifically, but most of them are only set to 1920x1080 as that's still a fairly standard sizing. 
 
-Update for 2025:
+## Update for 2025:
 
 Moved the repo to my coding arm of Earth & Dusk for more clarity, if Azem or K'rhis make more (Dusk/earth) then we can put them in here as well as each other's XIV mod things.
 
 
-Works for Dawntrail
+## Works for Dawntrail
 
 A collection of reshade presets that we've been working on. We're not perfect at them, and we're planning on learning more as time goes on.
 
@@ -27,7 +27,7 @@ Lisc: Don't sell this for money, because I'd cry. Don't use this for anything to
 You CAN: Remix, redo and fix anything stupid I've done and re-name.
 
 
-Examples:
+## Examples:
 
 In Living a Lie Preset Pack:
 ![InLivingaLie](https://github.com/user-attachments/assets/b3ac6e4a-6e80-4ca3-b381-2edbc61d6de5)
@@ -54,7 +54,7 @@ Pepperoni Presets:
 
 
 
-Credits for Shaders:
+## Credits for Shaders:
 - MartyMcFly/Pascal
 - OtisFX
 - FGFX
@@ -73,3 +73,14 @@ Credits for Shaders:
 - Brussell
 
 
+## Socials
+
+| Platform       | Link                                                                             |
+| -------------- | -------------------------------------------------------------------------------- |
+| Discord        | [Discord](https://discord.gg/5t2kYxt7An)                                      |
+| Resources | [Capsekai Resources](https://capsekai.carrd.co/)                                 |
+| YouTube        | [YouTube](https://www.youtube.com/channel/UCk7MGP7nrJz5awBSP75xmVw)              |
+| TikTok         | [TikTok](https://www.tiktok.com/@duskfallcrew)                                  |
+| Twitch         | [Twitch](https://twitch.tv/duskfallcrew)                                        |
+| Ko-Fi          | [Ko-Fi](https://ko-fi.com/duskfallcrew/)                                        |
+| BlueSky        | [BlueSky](https://bsky.app/profile/duskfallcrew.bsky.social)                   |
