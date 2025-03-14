@@ -49,6 +49,13 @@ Pepperoni Presets:
 
 ![PepperoniPack](https://github.com/user-attachments/assets/01ecda67-0a6a-4c2c-b322-77c4d1d119f3)
 
+Seneschal:
+
+![SeneschalPack](https://github.com/user-attachments/assets/52824087-e362-4e76-a978-1a902fb39fb3)
+
+Mogtome Season:
+
+![ffxiv_dx11 2025-03-13 19-24-58](https://github.com/user-attachments/assets/af2a0889-bde8-43d7-97e9-ab22e9709981)
 
 
 
