@@ -134,7 +134,7 @@ These presets wouldn't be possible without the incredible work of the shader dev
 Texture backgrounds can be used for ANY of the depth slice setups. While certain ones are formatted specifically, most are designed for a 1920x1080 resolution, which remains a fairly standard sizing.
 
 ### 2025 Update:
-This repository has been moved to our coding arm, **Earth & Dusk**, for better organization and clarity. Future presets from Azem, K'rhis (Dusk/Earth), or other members may also be consolidated here and on our respective modding platform accounts. More presets have been added!
+This repository has been moved to our coding arm, **Ktiseos Nyx**, for better organization and clarity. Future presets from Azem, K'rhis (Dusk/Earth), or other members may also be consolidated here and on our respective modding platform accounts. More presets have been added!
 
 ---
 
