@@ -1,0 +1,29 @@
+INLIVINGALIE PRESET SHADER CREDITS:
+
+Credits for Shaders:
+MartyMcFly/Pascal
+OtisFX
+FGFX
+Radegast
+RSRetroArch
+VRToolkit
+Insane Shaders
+Quint
+Pirate Shaders
+RSRetroArch
+PD80
+Luluco250
+Fubax
+AstrayFX
+CobraFX
+CorgiFX
+Daodan
+Akgunter
+Brussell
+
+
+I don't know what ones I've used for this one - so if a "WHOLE PACK" is in here, I'm sorry I'll fix it another time i'm struggling to keep up lmao. 
+
+I'll eventually just point to the shader packs people need cause this is getting CRAZY.
+I don't own any of these shaders, nor do I code RESHADE JUST PFSDFIOSDJF.
+DOWNLOAD THEM FROM TEH WIKI AND PAY LOVE TO ALL OF THEM
