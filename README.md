@@ -4,7 +4,7 @@ Welcome to the official ReShade preset collection by **Duskfallcrew (@KtiseosNyx
 While we're always learning and perfecting our craft, these presets represent our current best efforts to bring new atmospheres and moods to your Eorzean adventures.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FFXIV%20Compatible-Dawntrail ✔️-blueviolet" alt="Works for Dawntrail">
+  <a href="https://xivmodarchive.com/user/539571"><img src="https://img.shields.io/badge/FFXIV%20Compatible-Dawntrail ✔️-blueviolet" alt="Works for Dawntrail"></a>
   <a href="https://ko-fi.com/Z8Z8L4EO"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support us on Ko-fi"></a>
 </p>
 
