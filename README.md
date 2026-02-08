@@ -1,4 +1,4 @@
-# ✨ Duskfallcrew's [Reshade](https://reshade.me/) Presets for FFXIV ✨
+# ✨ Ktiseos Nyx [Reshade](https://reshade.me/) Presets for FFXIV ✨
 Welcome to the preset collection for Reshade by **KtiseosNyx**! We're passionate about enhancing the visual experience of Final Fantasy XIV and are excited to share our creations with you.
 
 While we're always learning and perfecting our craft, these presets represent our current best efforts to bring new atmospheres and moods to your Eorzean adventures.
