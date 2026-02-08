@@ -1,5 +1,5 @@
-# ✨ Duskfallcrew's Re:Shade Presets for FFXIV ✨
-Welcome to the official ReShade preset collection by **Duskfallcrew (@KtiseosNyx)**! We're passionate about enhancing the visual experience of Final Fantasy XIV and are excited to share our creations with you.
+# ✨ Duskfallcrew's [Reshade](https://reshade.me/) Presets for FFXIV ✨
+Welcome to the preset collection for Reshade by **KtiseosNyx**! We're passionate about enhancing the visual experience of Final Fantasy XIV and are excited to share our creations with you.
 
 While we're always learning and perfecting our craft, these presets represent our current best efforts to bring new atmospheres and moods to your Eorzean adventures.
 
@@ -14,6 +14,7 @@ While we're always learning and perfecting our craft, these presets represent ou
 *   A diverse collection of presets to suit various moods and environments.
 *   Continuously updated and refined.
 *   Designed with Final Fantasy XIV in mind, with confirmed compatibility for Dawntrail!
+*   Blood, sweat and Miqo Tears as my GPU screeches at me like an Eagle.
 
 ---
 
@@ -201,22 +202,21 @@ We want you to enjoy and build upon our work!
 ## 🧑‍🤝‍🧑 Credits & Thanks
 These presets wouldn't be possible without the incredible work of the shader development community. Our deepest thanks to the authors of the shaders we've utilized:
 
-*   MartyMcFly/Pascal Glänzer (qUINT, various effects)
-*   OtisFX (Otis Inf - Cinematic DOF, etc.)
-*   FGFX (prod80, Alucard, etc.)
-*   Radegast
-*   Quint (Original qUINT shaders)
-*   Pirate Shaders (Guru3D forums)
-*   RSRetroArch (RetroArch shaders adapted for ReShade)
-*   PD80 (prod80 - various effects)
-*   Luluco250
-*   Fubax
-*   AstrayFX
-*   CobraFX
-*   CorgiFX
-*   Daodan
-*   Akgunter
-*   Brussell
+*   [MartymcModding/Pascal Glicher](https://github.com/martymcmodding) 
+*   [OtisFX](https://github.com/FransBouma/OtisFX) 
+*   [FGFX](https://github.com/AlexTuduran/FGFX)
+*   [Radegast](https://github.com/Radegast-FFXIV/Warp-FX)
+*   [Pirate Shaders](https://github.com/Heathen/Pirate-Shaders) 
+*   [RSRetroArch (RetroArch shaders adapted for ReShade)](https://github.com/Matsilagi/RSRetroArch/)
+*   [PD80  ](https://github.com/prod80/prod80-ReShade-Repository)
+*   [Luluco250](https://github.com/luluco250/FXShaders)
+*   [Fubax](https://github.com/Fubaxiusz/fubax-shaders)
+*   [AstrayFX](https://github.com/BlueSkyDefender/AstrayFX)
+*   [CobraFX](https://github.com/LordKobra/CobraFX)
+*   [CorgiFX](https://github.com/originalnicodr/CorgiFX)
+*   [Daodan](https://github.com/Daodan317081/reshade-shaders)
+*   [Akgunter](https://github.com/akgunter)
+*   [Brussell](https://github.com/brussell1/Shaders)
 
 ...and any others we may have inadvertently missed! (If you see a shader you wrote and aren't credited, please let us know!)
 
